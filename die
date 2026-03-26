@@ -1,0 +1,16 @@
+import random 
+coin = random.randint(0,1)
+
+if coin == 0:
+    print("Heads")
+else:
+    print("Tails")
+
+
+
+import random 
+
+die = random.randint(1,6)
+die1 = random.randint(1,6)
+
+print(f"Die1:{die}, Die2:{die1}")
