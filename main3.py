@@ -43,8 +43,12 @@
 #         print(x)
 
 students = []
+n = int(input("How many students in the class?"))
 
-students = input("how many students in the class")
-students = input("score")
-avarr,
-print(students)
+for i in range(n):
+    score = int(input(f"Enter score for student {i+1}; "))
+    students.append(score)
+
+print("Score:", students)
+average = sum(students) / len(students)
+print(average)
