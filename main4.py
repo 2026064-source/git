@@ -1,3 +1,6 @@
+#Midterm prefer 
+# 
+# 
 # print("hello world")
 # print("Hello")
 # print("David")
@@ -84,33 +87,21 @@
 #     print("odd")
 
 
-# a = int(input("age:"))
-# if a >=18:
-#     print("Adult")
-# else:
-#     print("You are a minor")
-
-
-i = int(input("number:"))
-# for i in range(0,51):
-if i >=20:
-        print("positive")
-elif i <=10:
-        print("negative")
+a = int(input("age:"))
+if a <=18:
+    print("Adult")
 else:
-        print("zero")
+    print("You are a minor")
 
 
-
-
-
-
-
-
-
-
-
-
+# i = int(input("number:"))
+# # for i in range(0,51):
+# if i >=20:
+#         print("positive")
+# elif i <=10:
+#         print("negative")
+# else:
+#         print("zero")
 
 
 # fruits = ["apple", "banana", "cherry", "date", "elderberry"]
