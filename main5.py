@@ -51,7 +51,4 @@ def display():
     for ingredient in ingredients:
         print(ingredient)
 display()
-display()
-display()
-display()
-display()
+
