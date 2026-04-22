@@ -58,3 +58,4 @@ else:
         print("You are too young")
 
 #return function ashiglaj baigaa tohioldold zaaval print(army_call)  print zaaval ashiglana
+
