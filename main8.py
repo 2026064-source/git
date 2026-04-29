@@ -23,5 +23,23 @@ def get_lowest(nums):
 
 get_lowest([1,2,3,4, -6, 10])
 
+
 def add_tax(price):
-    return()
+    return price * 1.10
+
+def receipt(item,price):
+    total = add_tax(price)
+    print(f"Item: {item}, Total with tax: {total}")
+
+receipt("Notebook", 5000)
+
+
+def calculate(a, b):
+    result = a + b
+    print(result)
+calculate(5, 5)
+
+
+def roast():
+    return 
+    if 
