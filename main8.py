@@ -40,6 +40,3 @@ def calculate(a, b):
 calculate(5, 5)
 
 
-def roast():
-    return 
-    if 

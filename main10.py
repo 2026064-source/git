@@ -51,7 +51,7 @@ while True:
         print(a*b)
         break
     elif user == 4:
-        print(a//b)
+        print(a/b)
         break
     
 
